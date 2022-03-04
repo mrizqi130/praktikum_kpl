@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\bin\Debug\TP-Mod2.exe.config
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\bin\Debug\TP-Mod2.exe
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\bin\Debug\TP-Mod2.pdb
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP-Mod2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP-Mod2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP_Mod2.Form1.resources
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP_Mod2.Properties.Resources.resources
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP-Mod2.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP-Mod2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP-Mod2.exe
+C:\Users\ASUS\Documents\praktikum_kpl\TP-Mod2\TP-Mod2\obj\Debug\TP-Mod2.pdb
